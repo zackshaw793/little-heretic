@@ -1,3 +1,130 @@
 * { 
     font-family: Lexend Deca, sans-serif !important;
+    color: rgb(84, 78, 72) !important;
+    background-color: rgb(254, 248, 242) !important;
+}
+
+@media (max-width: 768px) {
+    .navbar-title {
+      font-size: 5vh !important;
+   }
+  } 
+
+#nav-title:hover { 
+    color: rgb(125, 117, 109) !important;
+}
+
+#nav-links {
+    font-size: 2svh !important;
+}
+
+#nav-links:hover {
+    color: rgb(125, 117, 109) !important;
+}
+
+#button-container { 
+    background: transparent !important;
+}
+
+#button { 
+    background: transparent !important;
+}
+
+#home-button {
+  background: transparent !important;
+}
+
+#button-custom {
+    color: rgb(242,235,227) !important;
+    border-radius: 10px !important;
+}
+
+#button-custom:hover {
+    color: rgb(174, 167, 160) !important;
+    border: 1px solid rgb(174, 167, 160) !important;
+}
+
+#card-body, #card-title, #card-text, #album-title { 
+    background: rgb(254, 248, 242) !important;
+    color: rgb(84, 78, 72) !important;
+}
+
+#card-link { 
+    color: rgb(40, 23, 23) !important;
+}
+
+#card-link:hover { 
+    color: rgb(84, 119, 122) !important;
+}
+
+#album-year { 
+    font-size: small !important;
+}
+
+#contact-title { 
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 10vh !important;
+    font-size: 5vh !important;
+}
+
+.contact-form { 
+    border: none !important;
+    border-radius: 10px !important;
+    padding: 4vh !important;
+    width: 50% !important;
+    height: 65% !important;
+}
+
+.button-custom2 {
+    color: rgb(56, 51, 45) !important;
+    border-radius: 10px !important;
+
+}
+
+.button-custom2:hover {
+    color: rgb(129, 129, 129) !important;
+    border: 1px solid rgb(212, 205, 199) !important;
+}
+
+.form-text { 
+    background: rgb(255, 255, 255) !important;
+}
+
+.form-text:active {
+    background: rgb(255, 255, 255) !important;
+    box-shadow: rgb(135, 168, 171) !important;
+}
+
+#submission-confirm { 
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-top: 10vh !important;
+    font-size: 5vh !important;
+}
+
+#upcoming-body {
+    background: rgb(254, 248, 242) !important;
+    color: rgb(84, 78, 72) !important;
+    display: grid !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+#audio-player {
+    display: grid !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+audio::-webkit-media-controls-panel {
+    background-color: rgb(254, 248, 242) !important;
+    color: rgb(84, 78, 72) !important;
+    width: 100% !important;
+}
+
+.social-media-icon { 
+    padding: 1em !important;
 }

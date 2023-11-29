@@ -1,0 +1,147 @@
+
+[
+    {
+        "id": 1,
+        "album": "It Never Goes Out", 
+        "artist": "The Hotelier",
+        "year": "2011",
+        "role": "Guitar, Vocals", 
+        "art": "/assets/itnevergoesout.jpeg",
+        "link": "https://thehotelier.bandcamp.com/album/it-never-goes-out-2"     
+    }, 
+    {
+        "id": 2,
+        "album": "Something About A Dream",
+        "artist": "Locria",
+        "year": "2012",
+        "role": "Guitars, Vocals, Drums on Never Mind",
+        "art": "/assets/somethingaboutadream.jpeg",
+        "link": "https://locria.bandcamp.com/album/something-about-a-dream"
+    },
+    {
+        "id": 3,
+        "album": "In Limbo",
+        "artist": "Zack Shaw",
+        "year": "2012",
+        "role": "Arrangments, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/inlimbo.jpeg",
+        "link": "https://zackshaw.bandcamp.com/album/in-limbo"
+    },
+    {
+        "id": 4,
+        "album": "Split Into",
+        "artist": "Split Seems",
+        "year": "2012",
+        "role": "Guitars, Vocals",
+        "art": "/assets/splitinto.jpeg",
+        "link": "https://splitseems.bandcamp.com/album/split-into-ep"
+    },
+    {
+        "id": 5,
+        "album": "Frame",
+        "artist": "Zack Shaw",
+        "year": "2013",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/frame.jpeg", 
+        "link": "https://zackshaw.bandcamp.com/album/frame"
+    },
+    {
+        "id": 6,
+        "album": "Dysphoria Tries",
+        "artist": "Split Seems",
+        "year": "2014",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/dysphoriatries.jpeg",
+        "link": "https://splitseems.bandcamp.com/album/dysphoria-tries"
+    },
+    {
+        "id": 7,
+        "album": "New Life In Old Shoes",
+        "artist": "Backwards Dancer",
+        "year": "2015",
+        "role": "Arrangments, Guitars, Vocals",
+        "art": "/assets/newlifeinoldshoes.jpeg", 
+        "link": "https://backwardsdancer.bandcamp.com/album/new-life-in-old-shoes"
+    },
+    {
+        "id": 8,
+        "album": "Backwards Dancer",
+        "artist": "Backwards Dancer",
+        "year": "2017",
+        "role": "Arrangments, Guitars, Vocals, Keys",
+        "art": "/assets/bdselftitled.jpeg",
+        "link": "https://backwardsdancer.bandcamp.com/album/backwards-dancer"
+    },
+    {
+        "id": 9,
+        "album": "Audiotree Live",
+        "artist": "Backwards Dancer",
+        "year": "2018",
+        "role": "Guitar, Vocals",
+        "art": "/assets/audiotreecover.jpeg",
+        "link": "https://backwardsdancer.bandcamp.com/album/backwards-dancer-audiotree-live"
+    },
+    {
+        "id": 10,
+        "album": "The Best Part of All of This is Existing While You Exist",
+        "artist": "Zack Shaw",
+        "year": "2020",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/bestpart.jpeg",
+        "link": "https://zackshaw.bandcamp.com/album/the-best-part-of-all-of-this-is-existing-while-you-exist"
+    },
+    {
+        "id": 11,
+        "album": "Remember Me When I Get Old",
+        "artist": "Zack Shaw",
+        "year": "2020",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/rememberme.jpg",
+        "link": "https://open.spotify.com/album/2XMjWXqXldS09UsTZJRdtD?si=wCYx0bZRSUWCNif91ShNwQ"
+    },
+    {
+        "id": 12,
+        "album": "No Guitars",
+        "artist": "Zack Shaw",
+        "year": "2020",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/noguitars.jpeg", 
+        "link": "https://open.spotify.com/album/55rgZ5HENYSME0HC8Bxh6d?si=a4ph6nEvRFmzrQmHfCpujw"
+    },
+    {
+        "id": 13,
+        "album": "Until We Rebuild",
+        "artist": "Zack Shaw",
+        "year": "2020",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/rebuild.jpeg",
+        "link": "https://zackshaw.bandcamp.com/album/until-we-rebuild"
+    },
+    {
+        "id": 14,
+        "album": "Psalm 23: A Prelude to Little Heretic",
+        "artist": "Zack Shaw",
+        "year": "2021",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/psalm23.jpeg",
+        "link": "https://zackshaw.bandcamp.com/album/psalm-23-a-prelude-to-little-heretic"
+    },
+    {
+        "id": 15,
+        "album": "Lost in The Ever Present Distance",
+        "artist": "Little Heretic",
+        "year": "2022",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/lostitepd.jpeg",
+        "link": "https://littleheretic.bandcamp.com/album/lost-in-the-ever-present-distance"
+    },
+    {
+        "id": 16,
+        "album": "Lemon Soda & Grenadine ",
+        "artist": "Little Heretic",
+        "year": "2022",
+        "role": "Arrangments, Production, Guitars, Bass, Drums, Vocals, Keys",
+        "art": "/assets/lemonsoda.jpeg",
+        "link": "https://littleheretic.bandcamp.com/album/lemon-soda-grenadine-ep"
+    }
+]
