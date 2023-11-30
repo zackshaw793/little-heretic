@@ -1,25 +1,31 @@
 * { 
     font-family: Lexend Deca, sans-serif !important;
     color: rgb(84, 78, 72) !important;
-    background-color: rgb(254, 248, 242) !important;
+    background-color: rgb(249, 249, 249) !important;
 }
 
 @media (max-width: 768px) {
-    .navbar-title {
-      font-size: 5vh !important;
+    #nav-title {
+      font-size: 3em !important;
    }
   } 
 
-#nav-title:hover { 
-    color: rgb(125, 117, 109) !important;
+  @media (min-width: 769px) {
+    #nav-title {
+        font-size: 8em !important; /* Adjust this value based on your design */
+    }
+}
+
+#nav-title { 
+    color: rgb(135, 168, 171) !important;
 }
 
 #nav-links {
-    font-size: 2svh !important;
+    font-size: 1em !important;
 }
 
 #nav-links:hover {
-    color: rgb(125, 117, 109) !important;
+    color: rgb(135, 168, 171) !important;
 }
 
 #button-container { 
@@ -35,17 +41,17 @@
 }
 
 #button-custom {
-    color: rgb(242,235,227) !important;
+    color: rgb(249, 249, 249) !important;
     border-radius: 10px !important;
 }
 
 #button-custom:hover {
-    color: rgb(174, 167, 160) !important;
-    border: 1px solid rgb(174, 167, 160) !important;
+    color: rgb(135, 168, 171) !important;
+    border: 1px solid rgb(135, 168, 171) !important;
 }
 
 #card-body, #card-title, #card-text, #album-title { 
-    background: rgb(254, 248, 242) !important;
+    background: rgb(249, 249, 249) !important;
     color: rgb(84, 78, 72) !important;
 }
 
@@ -73,7 +79,7 @@
     border: none !important;
     border-radius: 10px !important;
     padding: 4vh !important;
-    width: 50% !important;
+    width: 100% !important;
     height: 65% !important;
 }
 
@@ -106,7 +112,7 @@
 }
 
 #upcoming-body {
-    background: rgb(254, 248, 242) !important;
+    background: rgb(249, 249, 249) !important;
     color: rgb(84, 78, 72) !important;
     display: grid !important;
     justify-content: center !important;
@@ -120,11 +126,16 @@
 }
 
 audio::-webkit-media-controls-panel {
-    background-color: rgb(254, 248, 242) !important;
+    background-color: rgb(249, 249, 249) !important;
     color: rgb(84, 78, 72) !important;
     width: 100% !important;
 }
 
 .social-media-icon { 
     padding: 1em !important;
+}
+
+#writing-page-button:hover {
+    color: rgb(135, 168, 171) !important;
+    border: 1px solid rgb(135, 168, 171) !important;
 }

@@ -5,7 +5,7 @@ import Home  from './Components/Home'
 import Work from './Components/Work'
 import Contact from './Components/Contact'
 import Upcoming from './Components/Upcoming'
-import PDFDisplay from './Components/SilverSlips';
+import SilverSlips from './Components/SilverSlips';
 
 
 
@@ -22,7 +22,7 @@ function App() {
         <Route path="/work" element={<Work />} />
         <Route path="/upcoming" element={<Upcoming />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path='/pdf' element={<PDFDisplay />} />  
+        <Route path='/silverslips' element={<SilverSlips/>} />  
       </Routes>
     </>
   )
