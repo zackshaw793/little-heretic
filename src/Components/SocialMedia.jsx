@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faInstagram, faBandcamp, faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faInstagram, faBandcamp, faGithub, faAmazon } from '@fortawesome/free-brands-svg-icons';
 import { Container, Row, Col } from 'react-bootstrap';
 
 export default function SocialMedia() {
@@ -15,6 +15,9 @@ export default function SocialMedia() {
                         </a>
                         <a href='https://github.com/zackshaw793' target='_blank' rel="noreferrer">
                             <FontAwesomeIcon icon={faGithub} size='3x' className='social-media-icon' />
+                        </a>
+                        <a href='https://a.co/d/5pVJ74Q' target='_blank' rel="noreferrer">
+                            <FontAwesomeIcon icon={faAmazon} size='3x' className='social-media-icon' />
                         </a>
                     </Col>
                 </Row>

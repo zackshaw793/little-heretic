@@ -139,3 +139,12 @@ audio::-webkit-media-controls-panel {
     color: rgb(135, 168, 171) !important;
     border: 1px solid rgb(135, 168, 171) !important;
 }
+
+#book-cover { 
+    width: 100% !important;
+    height: 100% !important;
+    margin-top: 2em !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
